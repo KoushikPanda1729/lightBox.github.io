@@ -84,11 +84,11 @@
     }
 
     .lightBox {
-        height: 90vh;
-        width: 80vw;
+        height: 50vh;
+        width: 70vw;
         position: fixed;
-        top: 5%;
-        left: 10%;
+        top: 25%;
+        left: 15%;
         object-fit: cover;
         transition: 1s;
         transform: scale(0);
